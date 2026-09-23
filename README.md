@@ -265,4 +265,4 @@ This repository serves as the official landing page for MSI App Player. The soft
 **Get the most recent version of MSI App Player today!**
 
 ---
-**Last updated:** 2026-09-23 11:00:47 UTC
+**Last updated:** 2026-09-23 16:21:48 UTC
